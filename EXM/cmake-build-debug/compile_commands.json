@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\hola.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\hola.cpp",
+  "file": "C:/Users/horro/Documents/EXM/hola.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/hola.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\hola2.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\hola2.cpp",
+  "file": "C:/Users/horro/Documents/EXM/hola2.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/hola2.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\alturaAvl.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\alturaAvl.cpp",
+  "file": "C:/Users/horro/Documents/EXM/alturaAvl.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/alturaAvl.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\RotacionesAMano.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\RotacionesAMano.cpp",
+  "file": "C:/Users/horro/Documents/EXM/RotacionesAMano.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/RotacionesAMano.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\ContarRotaciones.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\ContarRotaciones.cpp",
+  "file": "C:/Users/horro/Documents/EXM/ContarRotaciones.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/ContarRotaciones.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\VecinoMasCercano.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\VecinoMasCercano.cpp",
+  "file": "C:/Users/horro/Documents/EXM/VecinoMasCercano.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/VecinoMasCercano.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\ReservasSala.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\ReservasSala.cpp",
+  "file": "C:/Users/horro/Documents/EXM/ReservasSala.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/ReservasSala.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\RankingPuntajes.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\RankingPuntajes.cpp",
+  "file": "C:/Users/horro/Documents/EXM/RankingPuntajes.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/RankingPuntajes.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\K-esimomenor.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\K-esimomenor.cpp",
+  "file": "C:/Users/horro/Documents/EXM/K-esimomenor.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/K-esimomenor.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\ContarRango.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\ContarRango.cpp",
+  "file": "C:/Users/horro/Documents/EXM/ContarRango.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/ContarRango.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\SumaEnRango.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\SumaEnRango.cpp",
+  "file": "C:/Users/horro/Documents/EXM/SumaEnRango.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/SumaEnRango.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\Prueba1.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\Prueba1.cpp",
+  "file": "C:/Users/horro/Documents/EXM/Prueba1.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/Prueba1.cpp.obj"
+},
+{
+  "directory": "C:/Users/horro/Documents/EXM/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\EXM.dir\\Prueba2.cpp.obj -c C:\\Users\\horro\\Documents\\EXM\\Prueba2.cpp",
+  "file": "C:/Users/horro/Documents/EXM/Prueba2.cpp",
+  "output": "C:/Users/horro/Documents/EXM/cmake-build-debug/CMakeFiles/EXM.dir/Prueba2.cpp.obj"
+}
+]
